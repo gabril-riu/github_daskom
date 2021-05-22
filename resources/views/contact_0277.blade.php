@@ -18,7 +18,20 @@
             margin: 10px;
             
         }
-        
+    
+        .content{
+            align-content: center;
+            text-align: center;
+        }
+
+        .form{
+            margin: 40px;
+        }
+
+        .form img{
+            width: 15%;
+            height: auto;
+        }
         
     </style>
 
@@ -47,9 +60,19 @@
 </div>
 
     <div class="content">
-        <h1>Selamat Datang di web Laravel awal Daskom</h1>
+        <div class="form">
+            <div class="foto">
+                <img src="image/211404.jpg" alt="img">
+            </div>
+            <div class="riwayat">
+                <p>nama    : gabriel Aprilyan</p>
+                <p>contact : 081394565412</p>
+                <p>email   : gabril@gmail.com</p>
+                <p>facebook : gabril aprilian</p>
+            </div>
+        </div>
     </div>
-    
+    <h1>ini adalah contact us</h1>
 
 </body>
 </html>
