@@ -32,7 +32,9 @@
             width: 15%;
             height: auto;
         }
-        
+        .riwayat{
+            margin: 10px;
+        }
     </style>
 
 
@@ -72,7 +74,6 @@
             </div>
         </div>
     </div>
-    <h1>ini adalah contact us</h1>
 
 </body>
 </html>

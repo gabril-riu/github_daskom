@@ -19,6 +19,10 @@
             
         }
         
+        .content{
+            text-align: center;
+            margin: 250px;
+        }
         
     </style>
 
